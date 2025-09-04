@@ -18609,3 +18609,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Sep2025 20:58:41.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-393
 [04Sep2025 20:58:41.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 20:58:41.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 21:01:55.481] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Sep2025 21:03:41.081] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-394
+[04Sep2025 21:03:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-395
+[04Sep2025 21:03:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-396
+[04Sep2025 21:03:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-397
+[04Sep2025 21:03:41.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-398
+[04Sep2025 21:03:41.086] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-399
+[04Sep2025 21:03:41.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-401
+[04Sep2025 21:03:41.087] [IO-Worker-395/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-400
+[04Sep2025 21:03:41.088] [IO-Worker-395/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-403
+[04Sep2025 21:03:41.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-402
+[04Sep2025 21:03:41.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 21:03:41.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 21:05:15.431] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Sep2025 21:08:35.381] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Sep2025 21:08:35.381] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Sep2025 21:08:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-404
+[04Sep2025 21:08:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-405
+[04Sep2025 21:08:41.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-406
+[04Sep2025 21:08:41.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-407
+[04Sep2025 21:08:41.084] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-408
+[04Sep2025 21:08:41.085] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-409
+[04Sep2025 21:08:41.086] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-410
+[04Sep2025 21:08:41.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-411
+[04Sep2025 21:08:41.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-412
+[04Sep2025 21:08:41.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-413
+[04Sep2025 21:08:41.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-414
+[04Sep2025 21:08:41.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-415
+[04Sep2025 21:08:41.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-416
+[04Sep2025 21:08:41.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-417
+[04Sep2025 21:08:41.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-418
+[04Sep2025 21:08:41.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-419
+[04Sep2025 21:08:41.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-420
+[04Sep2025 21:08:41.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 21:08:41.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
