@@ -1039,3 +1039,30 @@
 [04Sep2025 17:46:01.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [04Sep2025 17:46:01.159] [Server thread/INFO] [tac/]: PENDING
 [04Sep2025 17:46:08.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[04Sep2025 17:48:24.383] [Server thread/INFO] [sereneseasons/]: Season time skipped by 21608 in minecraft:overworld
+[04Sep2025 17:48:24.396] [Server thread/INFO] [sereneseasons/]: Season time skipped by 21608 in minecraft:the_end
+[04Sep2025 17:48:24.396] [Server thread/INFO] [sereneseasons/]: Season time skipped by 21608 in lostcities:lostcity
+[04Sep2025 17:48:24.396] [Server thread/INFO] [sereneseasons/]: Season time skipped by 21608 in minecraft:the_nether
+[04Sep2025 17:48:24.397] [Server thread/INFO] [sereneseasons/]: Season time skipped by 21608 in deceasedcraft:abyss
+[04Sep2025 17:52:34.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 lost connection: Disconnected
+[04Sep2025 17:52:34.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 left the game
+[04Sep2025 17:52:34.041] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[04Sep2025 17:52:34.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniel16
+[04Sep2025 17:55:23.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[04Sep2025 17:55:38.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Getting an Upgrade]
+[04Sep2025 17:56:38.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Survival Mode]
+[04Sep2025 17:56:49.143] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@334e009
+[04Sep2025 17:56:49.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: daniel16[/127.156.158.246:35203] logged in with entity id 109499 at (211.69999998807907, 76.0, 188.69999998807907)
+[04Sep2025 17:56:49.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 joined the game
+[04Sep2025 17:56:49.164] [Server thread/INFO] [tac/]: PENDING
+[04Sep2025 17:56:49.214] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[04Sep2025 17:56:51.459] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of daniel16 (17)
+[04Sep2025 17:56:51.459] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to daniel16
+[04Sep2025 17:57:30.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Immersive Engineering]
+[04Sep2025 17:58:16.185] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1808c950: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[04Sep2025 17:58:16.303] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1808c950: RandomSpreadSearchWorker succeeded with 2020 radius, 26 samples
+[04Sep2025 17:58:28.981] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11909 in minecraft:overworld
+[04Sep2025 17:58:28.990] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11909 in minecraft:the_end
+[04Sep2025 17:58:28.990] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11909 in lostcities:lostcity
+[04Sep2025 17:58:28.991] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11909 in minecraft:the_nether
+[04Sep2025 17:58:28.991] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11909 in deceasedcraft:abyss

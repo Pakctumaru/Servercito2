@@ -423,6 +423,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-09-04 17:57:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-04 16:06:27 +0000"
@@ -558,6 +564,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-09-04 16:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-04 17:55:38 +0000"
     },
     "done": true
   },
