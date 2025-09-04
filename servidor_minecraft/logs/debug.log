@@ -18219,3 +18219,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Sep2025 18:38:41.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Sep2025 18:38:59.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
 [04Sep2025 18:39:01.440] [Worker-Main12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main146
+[04Sep2025 18:39:44.393] [IO-Worker-133/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[04Sep2025 18:39:49.600] [IO-Worker-133/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[04Sep2025 18:39:49.601] [IO-Worker-144/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[04Sep2025 18:41:54.781] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Sep2025 18:43:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[04Sep2025 18:43:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[04Sep2025 18:43:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[04Sep2025 18:43:41.092] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[04Sep2025 18:43:41.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[04Sep2025 18:43:41.100] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[04Sep2025 18:43:41.100] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[04Sep2025 18:43:41.101] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[04Sep2025 18:43:41.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:43:41.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:45:07.941] [IO-Worker-150/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[04Sep2025 18:45:14.731] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Sep2025 18:48:34.681] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Sep2025 18:48:34.681] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Sep2025 18:48:41.090] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[04Sep2025 18:48:41.090] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[04Sep2025 18:48:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[04Sep2025 18:48:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[04Sep2025 18:48:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[04Sep2025 18:48:41.098] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[04Sep2025 18:48:41.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[04Sep2025 18:48:41.100] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[04Sep2025 18:48:41.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:48:41.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:48:49.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[04Sep2025 18:48:49.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael left the game
+[04Sep2025 18:48:49.187] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[04Sep2025 18:48:49.187] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 152890, 187179
+[04Sep2025 18:48:49.188] [Server thread/DEBUG] [readyplayerfun/]: (pauseServer) Raining: false rainTime: 3418, thundering: false, thunderTime 0, weatherTime: 927556, randomTickSpeed: 3, doFireTick: true
+[04Sep2025 18:48:49.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[04Sep2025 18:48:49.188] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of VadniesHael

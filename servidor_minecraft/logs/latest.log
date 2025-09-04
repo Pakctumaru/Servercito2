@@ -1111,3 +1111,8 @@
 [04Sep2025 18:18:49.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [04Sep2025 18:18:49.009] [Server thread/INFO] [tac/]: PENDING
 [04Sep2025 18:38:59.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[04Sep2025 18:48:49.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[04Sep2025 18:48:49.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael left the game
+[04Sep2025 18:48:49.187] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[04Sep2025 18:48:49.187] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 152890, 187179
+[04Sep2025 18:48:49.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
