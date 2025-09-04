@@ -18058,3 +18058,137 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Sep2025 18:18:46.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has completed the challenge [Well, that was disgusting]
 [04Sep2025 18:18:49.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [04Sep2025 18:18:49.009] [Server thread/INFO] [tac/]: PENDING
+[04Sep2025 18:20:10.095] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[04Sep2025 18:20:10.096] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[04Sep2025 18:20:10.100] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[04Sep2025 18:20:16.313] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[04Sep2025 18:21:54.681] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Sep2025 18:23:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[04Sep2025 18:23:41.091] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[04Sep2025 18:23:41.092] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[04Sep2025 18:23:41.092] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[04Sep2025 18:23:41.093] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[04Sep2025 18:23:41.101] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[04Sep2025 18:23:41.102] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[04Sep2025 18:23:41.102] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[04Sep2025 18:23:41.103] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[04Sep2025 18:23:41.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:23:41.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:25:14.631] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Sep2025 18:25:42.942] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[04Sep2025 18:26:10.275] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'firstaid:channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedvisuals:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:handshake' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombie_extreme:zombie_extreme' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'drg_flares:packets' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pipez:default' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apocalypsenow:apocalypsenow' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutationcraft:mutationcraft' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customportalapi:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:infection' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tac:play' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:hordeevent' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cold_sweat:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thirst:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.276] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lostcities:lostcities' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_revamp2:undead_revamp2' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_sa:create_sa' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puffish_skills:skill_click' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'openpartiesandclaims:main' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pfm:main_channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'atlaslib:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersivepetroleum:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'theoneprobe:theoneprobe' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_villagers:default' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'diet:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:play' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_central_kitchen:farmersdelight' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:dummychannel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'car:default' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'harvestwithease:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'crafttweaker:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main_channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createaddition:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ag_day_counter:ag_day_counter' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'solcarrot:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'selene:network' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombiemobs:zombiemobs' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Vanilla acceptance test: ACCEPTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashcans:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:10.278] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refinedstorage:main_channel' : Vanilla acceptance test: REJECTED
+[04Sep2025 18:26:34.240] [Worker-Main16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main16 shutdown
+[04Sep2025 18:28:34.581] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Sep2025 18:28:34.581] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Sep2025 18:28:41.124] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[04Sep2025 18:28:41.124] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[04Sep2025 18:28:41.125] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[04Sep2025 18:28:41.135] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[04Sep2025 18:28:41.136] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[04Sep2025 18:28:41.137] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[04Sep2025 18:28:41.139] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[04Sep2025 18:28:41.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:28:41.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-09-04 18:18:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-09-04 16:06:27 +0000"
