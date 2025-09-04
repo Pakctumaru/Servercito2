@@ -17940,3 +17940,58 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Sep2025 17:58:41.118] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
 [04Sep2025 17:58:41.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 17:58:41.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 17:59:14.542] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@274f7d25 for service interface com.blamejared.clumps.platform.IEventHelper
+[04Sep2025 17:59:14.543] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@5673f5f0 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[04Sep2025 18:00:18.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[04Sep2025 18:00:19.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[04Sep2025 18:00:19.922] [Server thread/INFO] [tac/]: PENDING
+[04Sep2025 18:00:31.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[04Sep2025 18:00:32.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[04Sep2025 18:00:32.874] [Server thread/INFO] [tac/]: PENDING
+[04Sep2025 18:00:33.399] [Worker-Main11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main73
+[04Sep2025 18:00:33.399] [Worker-Main8/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main72
+[04Sep2025 18:00:33.400] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[04Sep2025 18:00:33.401] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[04Sep2025 18:01:01.706] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[04Sep2025 18:01:01.707] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[04Sep2025 18:01:54.581] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Sep2025 18:02:48.244] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[04Sep2025 18:03:41.094] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[04Sep2025 18:03:41.095] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[04Sep2025 18:03:41.105] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[04Sep2025 18:03:41.106] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[04Sep2025 18:03:41.107] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[04Sep2025 18:03:41.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:03:41.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:04:31.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael died from dehydration
+[04Sep2025 18:04:32.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[04Sep2025 18:04:32.283] [Server thread/INFO] [tac/]: PENDING
+[04Sep2025 18:05:14.531] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Sep2025 18:05:18.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[04Sep2025 18:05:19.628] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[04Sep2025 18:05:19.629] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[04Sep2025 18:05:19.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[04Sep2025 18:05:19.673] [Server thread/INFO] [tac/]: PENDING
+[04Sep2025 18:05:26.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to daniel16]
+[04Sep2025 18:05:35.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <daniel16> bro pide tp
+[04Sep2025 18:06:22.480] [Worker-Main21/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 1]
+[04Sep2025 18:06:22.761] [Worker-Main19/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 0]
+[04Sep2025 18:06:28.692] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[04Sep2025 18:06:28.758] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[04Sep2025 18:06:28.758] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[04Sep2025 18:07:01.685] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.AxolotlAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[04Sep2025 18:07:43.363] [Worker-Main4/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 2]
+[04Sep2025 18:07:44.098] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[04Sep2025 18:08:34.481] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Sep2025 18:08:34.481] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Sep2025 18:08:41.096] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[04Sep2025 18:08:41.097] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[04Sep2025 18:08:41.098] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[04Sep2025 18:08:41.098] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 2] Saved.
+[04Sep2025 18:08:41.099] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[04Sep2025 18:08:41.099] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[04Sep2025 18:08:41.111] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[04Sep2025 18:08:41.112] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[04Sep2025 18:08:41.113] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[04Sep2025 18:08:41.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:08:41.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
