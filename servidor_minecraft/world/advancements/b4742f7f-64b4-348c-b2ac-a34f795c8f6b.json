@@ -181,6 +181,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-04 18:12:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-04 17:40:33 +0000"
@@ -277,6 +283,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-09-04 18:17:42 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-04 17:40:33 +0000"
@@ -294,6 +306,12 @@
       "has_the_recipe": "2025-09-04 17:40:33 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-09-04 18:17:42 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -521,6 +539,12 @@
     "criteria": {
       "has_blazepowder": "2025-09-04 17:40:33 +0000",
       "has_bolt": "2025-09-04 17:40:33 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-09-04 18:17:45 +0000"
     },
     "done": true
   },

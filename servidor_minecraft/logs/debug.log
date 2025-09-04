@@ -17995,3 +17995,66 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Sep2025 18:08:41.113] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
 [04Sep2025 18:08:41.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 18:08:41.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:09:51.104] [Worker-Main7/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 2]
+[04Sep2025 18:10:33.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[04Sep2025 18:10:33.606] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Sep2025 18:10:33.606] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[04Sep2025 18:10:33.607] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[04Sep2025 18:10:33.607] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[04Sep2025 18:10:33.607] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[04Sep2025 18:10:34.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[04Sep2025 18:10:34.978] [Server thread/INFO] [tac/]: PENDING
+[04Sep2025 18:10:40.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to daniel16]
+[04Sep2025 18:11:08.153] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[04Sep2025 18:11:08.154] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[04Sep2025 18:11:09.264] [Worker-Main7/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, 2]
+[04Sep2025 18:11:54.631] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Sep2025 18:12:40.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Sweet Dreams]
+[04Sep2025 18:12:45.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 has made the advancement [Sweet Dreams]
+[04Sep2025 18:12:50.298] [Server thread/INFO] [sereneseasons/]: Season time skipped by 775 in minecraft:the_end
+[04Sep2025 18:12:50.299] [Server thread/INFO] [sereneseasons/]: Season time skipped by 775 in lostcities:lostcity
+[04Sep2025 18:12:50.299] [Server thread/INFO] [sereneseasons/]: Season time skipped by 775 in minecraft:the_nether
+[04Sep2025 18:12:50.300] [Server thread/INFO] [sereneseasons/]: Season time skipped by 775 in deceasedcraft:abyss
+[04Sep2025 18:12:50.331] [Server thread/INFO] [sereneseasons/]: Season time skipped by 775 in minecraft:overworld
+[04Sep2025 18:12:57.142] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[04Sep2025 18:13:41.095] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[04Sep2025 18:13:41.095] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[04Sep2025 18:13:41.096] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[04Sep2025 18:13:41.097] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 2] Saved.
+[04Sep2025 18:13:41.097] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 2] Saved.
+[04Sep2025 18:13:41.097] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 1] Saved.
+[04Sep2025 18:13:41.097] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 2] Saved.
+[04Sep2025 18:13:41.109] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[04Sep2025 18:13:41.109] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[04Sep2025 18:13:41.112] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[04Sep2025 18:13:41.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:13:41.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:15:14.581] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Sep2025 18:16:01.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [A Glorious Feast]
+[04Sep2025 18:16:33.163] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[04Sep2025 18:17:22.598] [Server thread/INFO] [io.github.mortuusars.chalk.Chalk/]: Chalk cannot be drawn at this position. (244, 82, 1172)
+[04Sep2025 18:17:23.142] [Server thread/INFO] [io.github.mortuusars.chalk.Chalk/]: Chalk cannot be drawn at this position. (244, 82, 1172)
+[04Sep2025 18:17:42.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 has made the advancement ['X' Marks the Spot]
+[04Sep2025 18:17:45.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 has made the advancement [Amateur Archaeologist]
+[04Sep2025 18:17:56.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 lost connection: Disconnected
+[04Sep2025 18:17:56.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 left the game
+[04Sep2025 18:17:56.091] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[04Sep2025 18:17:56.092] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniel16
+[04Sep2025 18:17:56.092] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of daniel16
+[04Sep2025 18:18:14.984] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[04Sep2025 18:18:14.985] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[04Sep2025 18:18:30.096] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[04Sep2025 18:18:33.590] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[04Sep2025 18:18:33.610] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[04Sep2025 18:18:34.531] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Sep2025 18:18:34.531] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Sep2025 18:18:41.093] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[04Sep2025 18:18:41.093] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[04Sep2025 18:18:41.094] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 2] Saved.
+[04Sep2025 18:18:41.095] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[04Sep2025 18:18:41.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 18:18:41.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 18:18:46.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael died
+[04Sep2025 18:18:46.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has completed the challenge [Well, that was disgusting]
+[04Sep2025 18:18:49.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[04Sep2025 18:18:49.009] [Server thread/INFO] [tac/]: PENDING
