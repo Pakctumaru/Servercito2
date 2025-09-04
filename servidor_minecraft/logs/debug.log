@@ -18849,3 +18849,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Sep2025 22:28:41.086] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-561
 [04Sep2025 22:28:41.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 22:28:41.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 22:31:55.931] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Sep2025 22:33:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-562
+[04Sep2025 22:33:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-563
+[04Sep2025 22:33:41.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-564
+[04Sep2025 22:33:41.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-565
+[04Sep2025 22:33:41.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-566
+[04Sep2025 22:33:41.085] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-567
+[04Sep2025 22:33:41.085] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-568
+[04Sep2025 22:33:41.086] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-569
+[04Sep2025 22:33:41.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 22:33:41.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 22:35:15.881] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Sep2025 22:38:35.831] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Sep2025 22:38:35.831] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Sep2025 22:38:41.081] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-570
+[04Sep2025 22:38:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-571
+[04Sep2025 22:38:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-572
+[04Sep2025 22:38:41.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-573
+[04Sep2025 22:38:41.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-574
+[04Sep2025 22:38:41.085] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-575
+[04Sep2025 22:38:41.085] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-576
+[04Sep2025 22:38:41.086] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-577
+[04Sep2025 22:38:41.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 22:38:41.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
