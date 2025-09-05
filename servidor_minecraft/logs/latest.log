@@ -1019,3 +1019,47 @@
 [05Sep2025 21:39:40.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (17)
 [05Sep2025 21:39:40.985] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
 [05Sep2025 21:40:43.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[05Sep2025 21:43:02.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Survival Mode]
+[05Sep2025 21:43:52.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[05Sep2025 21:43:54.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[05Sep2025 21:43:54.045] [Server thread/INFO] [tac/]: PENDING
+[05Sep2025 21:44:58.142] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15b55499
+[05Sep2025 21:44:58.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: daniel16[/127.77.24.232:45419] logged in with entity id 68846 at (249.82311492243494, 82.625, 1177.1254781162702)
+[05Sep2025 21:44:58.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 joined the game
+[05Sep2025 21:44:58.165] [Server thread/INFO] [tac/]: PENDING
+[05Sep2025 21:44:58.217] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[05Sep2025 21:45:01.401] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of daniel16 (17)
+[05Sep2025 21:45:01.402] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to daniel16
+[05Sep2025 21:46:29.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 182.500000, 96.500000, 1189.500000]
+[05Sep2025 21:46:39.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[05Sep2025 21:46:39.798] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Sep2025 21:46:39.798] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[05Sep2025 21:46:39.799] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[05Sep2025 21:46:39.799] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[05Sep2025 21:46:39.799] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[05Sep2025 21:46:41.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[05Sep2025 21:46:41.129] [Server thread/INFO] [tac/]: PENDING
+[05Sep2025 21:47:14.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 182.500000, 96.500000, 1189.500000]
+[05Sep2025 21:47:28.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Acquire Hardware]
+[05Sep2025 21:47:41.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[05Sep2025 21:49:16.087] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:16.087] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:17.335] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:17.335] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:18.591] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:18.591] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:19.835] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:19.835] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:21.086] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:21.086] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:22.334] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:22.335] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:23.590] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:23.591] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:49:24.835] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[05Sep2025 21:50:09.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by daniel16
+[05Sep2025 21:50:10.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[05Sep2025 21:50:10.518] [Server thread/INFO] [tac/]: PENDING
+[05Sep2025 21:51:01.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by daniel16
+[05Sep2025 21:51:02.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[05Sep2025 21:51:02.760] [Server thread/INFO] [tac/]: PENDING

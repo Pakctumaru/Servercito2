@@ -614,6 +614,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-09-05 21:47:28 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-09-04 16:06:27 +0000"
@@ -624,6 +630,12 @@
     "criteria": {
       "has_blazepowder": "2025-09-04 16:06:27 +0000",
       "has_bolt": "2025-09-04 16:06:27 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2025-09-05 21:47:28 +0000"
     },
     "done": true
   },
