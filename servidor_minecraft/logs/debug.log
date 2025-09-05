@@ -17583,3 +17583,44 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Sep2025 21:51:02.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [05Sep2025 21:51:02.760] [Server thread/INFO] [tac/]: PENDING
 [05Sep2025 21:51:33.849] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[05Sep2025 21:52:29.157] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[05Sep2025 21:52:56.825] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05Sep2025 21:52:56.826] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05Sep2025 21:53:03.044] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[05Sep2025 21:53:03.046] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[05Sep2025 21:53:03.046] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[05Sep2025 21:53:03.046] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[05Sep2025 21:53:03.060] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[05Sep2025 21:53:03.061] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[05Sep2025 21:53:03.063] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[05Sep2025 21:53:03.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 21:53:03.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 21:53:52.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VadniesHael> XD
+[05Sep2025 21:54:24.388] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[05Sep2025 21:54:29.740] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5709 in minecraft:the_nether
+[05Sep2025 21:54:29.741] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5709 in deceasedcraft:abyss
+[05Sep2025 21:54:29.741] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5709 in lostcities:lostcity
+[05Sep2025 21:54:29.742] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5709 in minecraft:the_end
+[05Sep2025 21:54:29.776] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5709 in minecraft:overworld
+[05Sep2025 21:54:30.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <daniel16> :blobcatban:
+[05Sep2025 21:55:21.534] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[05Sep2025 21:55:29.833] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[05Sep2025 21:56:16.976] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05Sep2025 21:56:56.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Disme A Dozen]
+[05Sep2025 21:57:45.778] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[05Sep2025 21:57:45.778] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[05Sep2025 21:58:00.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 has made the advancement [Diamonds!]
+[05Sep2025 21:58:03.039] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[05Sep2025 21:58:03.041] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[05Sep2025 21:58:03.041] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[05Sep2025 21:58:03.042] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[05Sep2025 21:58:03.050] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[05Sep2025 21:58:03.051] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[05Sep2025 21:58:03.052] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[05Sep2025 21:58:03.052] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[05Sep2025 21:58:03.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 21:58:03.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 21:59:21.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Crops of the Wild]
+[05Sep2025 21:59:36.925] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[05Sep2025 22:01:23.207] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[05Sep2025 22:02:07.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Diamonds!]
