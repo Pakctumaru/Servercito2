@@ -1118,3 +1118,19 @@
 [05Sep2025 22:11:44.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Husk
 [05Sep2025 22:11:45.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [05Sep2025 22:11:45.788] [Server thread/INFO] [tac/]: PENDING
+[05Sep2025 22:14:32.320] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[05Sep2025 22:14:32.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new White Transporter
+[05Sep2025 22:18:51.902] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[05Sep2025 22:18:58.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was eliminated by VadniesHael
+[05Sep2025 22:19:00.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[05Sep2025 22:19:00.339] [Server thread/INFO] [tac/]: PENDING
+[05Sep2025 22:19:36.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by entity.hordes.ZombiePlayer.chat
+[05Sep2025 22:19:37.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[05Sep2025 22:19:37.422] [Server thread/INFO] [tac/]: PENDING
+[05Sep2025 22:21:17.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Blue Transporter
+[05Sep2025 22:21:34.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 343.500000, 91.500000, 850.500000]
+[05Sep2025 22:21:44.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['daniel16'/313150, l='ServerLevel[world]', x=345.30, y=91.00, z=850.52] died: entity.hordes.ZombiePlayer.chat was slain by VadniesHael
+[05Sep2025 22:21:54.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[05Sep2025 22:22:07.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[05Sep2025 22:22:13.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 tried to cross barbed wire while fighting VadniesHael
+[05Sep2025 22:22:26.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
