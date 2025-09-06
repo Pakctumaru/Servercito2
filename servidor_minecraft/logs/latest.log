@@ -1194,3 +1194,116 @@
 [06Sep2025 02:16:53.958] [Server thread/INFO] [tac/]: PENDING
 [06Sep2025 02:16:55.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [06Sep2025 02:16:55.210] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:17:28.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by The Wheezer
+[06Sep2025 02:17:29.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:17:29.697] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:17:47.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=73, z=0}
+[06Sep2025 02:17:47.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=72, z=0}
+[06Sep2025 02:17:48.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:17:58.223] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8809 in minecraft:overworld
+[06Sep2025 02:17:58.240] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8809 in deceasedcraft:abyss
+[06Sep2025 02:17:58.240] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8809 in lostcities:lostcity
+[06Sep2025 02:17:58.240] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8809 in minecraft:the_nether
+[06Sep2025 02:17:58.240] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8809 in minecraft:the_end
+[06Sep2025 02:18:03.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:18:03.391] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:18:07.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=75, z=0}
+[06Sep2025 02:18:07.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=73, z=0}
+[06Sep2025 02:18:10.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=73, z=2}
+[06Sep2025 02:18:11.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=75, z=0}
+[06Sep2025 02:18:19.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=74, z=1}
+[06Sep2025 02:18:20.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=75, z=-1}
+[06Sep2025 02:18:21.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=75, z=0}
+[06Sep2025 02:18:21.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=75, z=-1}
+[06Sep2025 02:18:45.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=1}
+[06Sep2025 02:18:45.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=0}
+[06Sep2025 02:18:48.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=0}
+[06Sep2025 02:18:48.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=1}
+[06Sep2025 02:18:48.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=74, z=1}
+[06Sep2025 02:19:18.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by The Wheezer
+[06Sep2025 02:19:20.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:19:20.536] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:19:20.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=72, z=4}
+[06Sep2025 02:19:24.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by The Wheezer
+[06Sep2025 02:19:25.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:19:25.798] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:19:27.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=0}
+[06Sep2025 02:19:32.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=75, z=0}
+[06Sep2025 02:19:42.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by The Wheezer
+[06Sep2025 02:19:43.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:19:43.343] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:19:47.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 02:19:48.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:19:48.998] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:19:49.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 lost connection: Disconnected
+[06Sep2025 02:19:49.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 left the game
+[06Sep2025 02:19:49.141] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[06Sep2025 02:19:49.141] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniel16
+[06Sep2025 02:19:49.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by The Wheezer
+[06Sep2025 02:19:51.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:19:51.722] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:20:00.134] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c6fb875
+[06Sep2025 02:20:00.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: daniel16[/127.77.24.232:47139] logged in with entity id 293261 at (0.30000001192092896, 75.0, -0.1712225788802343)
+[06Sep2025 02:20:00.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 joined the game
+[06Sep2025 02:20:00.153] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:20:00.193] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[06Sep2025 02:20:00.571] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of daniel16 (17)
+[06Sep2025 02:20:00.571] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to daniel16
+[06Sep2025 02:20:08.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie Squid
+[06Sep2025 02:20:10.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:20:10.335] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:20:47.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=0}
+[06Sep2025 02:21:12.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=0}
+[06Sep2025 02:21:12.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=75, z=0}
+[06Sep2025 02:21:12.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=75, z=-1}
+[06Sep2025 02:21:18.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=0}
+[06Sep2025 02:21:26.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=75, z=0}
+[06Sep2025 02:22:23.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=73, z=-2}
+[06Sep2025 02:22:29.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=64, z=-9}
+[06Sep2025 02:22:32.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie Dolphin
+[06Sep2025 02:22:33.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:22:33.471] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:22:46.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie Dolphin
+[06Sep2025 02:22:49.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:22:49.073] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:22:50.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=73, z=2}
+[06Sep2025 02:22:55.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=74, z=0}
+[06Sep2025 02:23:01.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to Taza_free]
+[06Sep2025 02:23:05.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 02:23:35.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Disme A Dozen]
+[06Sep2025 02:24:55.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by VadniesHael
+[06Sep2025 02:24:56.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:24:56.600] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:25:13.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <VadniesHael> duerme
+[06Sep2025 02:25:20.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
+[06Sep2025 02:25:20.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free left the game
+[06Sep2025 02:25:20.430] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 02:25:20.430] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[06Sep2025 02:25:20.487] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9156 in deceasedcraft:abyss
+[06Sep2025 02:25:20.488] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9156 in lostcities:lostcity
+[06Sep2025 02:25:20.488] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9156 in minecraft:the_nether
+[06Sep2025 02:25:20.488] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9156 in minecraft:the_end
+[06Sep2025 02:25:20.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Keep Going]
+[06Sep2025 02:25:20.522] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9156 in minecraft:overworld
+[06Sep2025 02:25:21.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <daniel16> :blobcatpinged::blobcat:
+[06Sep2025 02:25:30.584] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fd723d8
+[06Sep2025 02:25:30.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taza_free[/127.191.98.28:36229] logged in with entity id 328535 at (251.5963030050821, 76.0, -107.88214360139773)
+[06Sep2025 02:25:30.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free joined the game
+[06Sep2025 02:25:30.602] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:25:30.652] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 02:25:30.837] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_free (17)
+[06Sep2025 02:25:30.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_free
+[06Sep2025 02:25:45.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Spruce Wood Car
+[06Sep2025 02:25:52.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Summoned new Birch Big Wood Car
+[06Sep2025 02:25:55.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:25:56.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:25:56.992] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:26:34.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Husk
+[06Sep2025 02:26:35.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:26:35.693] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:26:43.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Infected Police
+[06Sep2025 02:26:44.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:26:44.539] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:26:44.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:26:45.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:26:45.839] [Server thread/INFO] [tac/]: PENDING
