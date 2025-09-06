@@ -1021,3 +1021,62 @@
 [06Sep2025 01:44:16.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [06Sep2025 01:44:16.717] [Server thread/INFO] [tac/]: PENDING
 [06Sep2025 01:44:21.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 01:46:34.997] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b4a5595
+[06Sep2025 01:46:35.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: daniel16[/127.77.24.232:55241] logged in with entity id 57058 at (345.86250001192093, 92.0, 852.1439239926767)
+[06Sep2025 01:46:35.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 joined the game
+[06Sep2025 01:46:35.027] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:46:35.144] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[06Sep2025 01:46:39.112] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of daniel16 (17)
+[06Sep2025 01:46:39.113] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to daniel16
+[06Sep2025 01:47:28.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:47:28.406] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:47:39.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[06Sep2025 01:49:19.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [First Day]
+[06Sep2025 01:49:28.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 01:49:29.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:49:29.702] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:49:50.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 311.500000, 72.500000, 890.500000]
+[06Sep2025 01:51:46.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 01:51:47.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:51:47.575] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:51:59.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 291.500000, 72.500000, 1061.500000]
+[06Sep2025 01:52:02.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by The Pregnant
+[06Sep2025 01:52:03.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:52:03.743] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:52:32.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: You logged in from another location
+[06Sep2025 01:52:32.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free left the game
+[06Sep2025 01:52:32.354] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 01:52:32.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[06Sep2025 01:52:32.367] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60c01601
+[06Sep2025 01:52:32.401] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Sep2025 01:52:32.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taza_free[/127.191.98.28:55291] logged in with entity id 97956 at (343.6607763335243, 90.0, 845.5322544815862)
+[06Sep2025 01:52:32.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free joined the game
+[06Sep2025 01:52:32.418] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:52:32.475] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 01:52:32.650] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_free (17)
+[06Sep2025 01:52:32.651] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_free
+[06Sep2025 01:52:46.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by daniel16
+[06Sep2025 01:52:51.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:52:51.763] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:53:05.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=74, z=0}
+[06Sep2025 01:53:26.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=69, z=0}
+[06Sep2025 01:53:37.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to daniel16]
+[06Sep2025 01:53:44.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
+[06Sep2025 01:53:44.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free left the game
+[06Sep2025 01:53:44.945] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 01:53:44.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[06Sep2025 01:53:59.096] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5253f642
+[06Sep2025 01:53:59.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taza_free[/127.191.98.28:39783] logged in with entity id 107398 at (-1.0860899754399453, 68.0, 3.860028064470854)
+[06Sep2025 01:53:59.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free joined the game
+[06Sep2025 01:53:59.118] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:53:59.148] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 01:53:59.363] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_free (17)
+[06Sep2025 01:53:59.363] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_free
+[06Sep2025 01:54:10.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=69, z=3}
+[06Sep2025 01:54:11.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=69, z=2}
+[06Sep2025 01:54:14.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=68, z=8}
+[06Sep2025 01:54:17.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=70, z=12}
+[06Sep2025 01:54:19.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=70, z=12}
+[06Sep2025 01:54:23.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[06Sep2025 01:55:17.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 has made the advancement [Disme A Dozen]
+[06Sep2025 01:56:05.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Diamonds!]
