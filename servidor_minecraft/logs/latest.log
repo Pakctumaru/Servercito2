@@ -1080,3 +1080,117 @@
 [06Sep2025 01:54:23.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
 [06Sep2025 01:55:17.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 has made the advancement [Disme A Dozen]
 [06Sep2025 01:56:05.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Diamonds!]
+[06Sep2025 01:57:45.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 01:57:46.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:57:46.755] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:57:48.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie
+[06Sep2025 01:57:49.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:57:49.601] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:58:02.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=69, z=5}
+[06Sep2025 01:58:11.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=69, z=13}
+[06Sep2025 01:58:15.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[06Sep2025 01:58:17.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=69, z=13}
+[06Sep2025 01:58:17.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=69, z=12}
+[06Sep2025 01:58:22.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to Taza_free]
+[06Sep2025 01:58:59.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 01:59:21.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 338.500000, 60.500000, 860.500000]
+[06Sep2025 01:59:31.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Husk
+[06Sep2025 01:59:33.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 01:59:33.109] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 01:59:39.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[06Sep2025 01:59:52.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[06Sep2025 01:59:58.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Sweet Dreams]
+[06Sep2025 02:00:13.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[06Sep2025 02:00:13.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael left the game
+[06Sep2025 02:00:13.632] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06Sep2025 02:00:13.633] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[06Sep2025 02:00:18.635] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10826 in deceasedcraft:abyss
+[06Sep2025 02:00:18.635] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10826 in lostcities:lostcity
+[06Sep2025 02:00:18.636] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10826 in minecraft:the_nether
+[06Sep2025 02:00:18.636] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10826 in minecraft:the_end
+[06Sep2025 02:00:18.673] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10826 in minecraft:overworld
+[06Sep2025 02:00:38.286] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75851f1d
+[06Sep2025 02:00:38.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.148.46.72:34071] logged in with entity id 152009 at (251.51759946499627, 102.0, 1043.561166635028)
+[06Sep2025 02:00:38.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael joined the game
+[06Sep2025 02:00:38.305] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:00:38.368] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06Sep2025 02:00:38.532] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (17)
+[06Sep2025 02:00:38.533] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
+[06Sep2025 02:00:58.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <daniel16> :blobcatreeeeeee::blobcatreeeeeee::blobcatreeeeeee::blobcatblep::blobcatblep::blobcatblep:
+[06Sep2025 02:01:06.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <daniel16> :blobcatpopsicle::blobcatpopsicle:
+[06Sep2025 02:02:19.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Runner
+[06Sep2025 02:02:20.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:02:20.788] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:02:29.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 02:03:03.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Stone Age]
+[06Sep2025 02:03:22.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Infected Police
+[06Sep2025 02:03:23.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Husk
+[06Sep2025 02:03:24.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:03:24.072] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:03:25.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:03:25.660] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:03:38.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to Taza_free]
+[06Sep2025 02:03:51.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 340.500000, 60.500000, 860.500000]
+[06Sep2025 02:04:11.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 02:04:12.059] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Sep2025 02:04:12.059] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[06Sep2025 02:04:12.060] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[06Sep2025 02:04:12.060] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[06Sep2025 02:04:12.060] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Sep2025 02:04:13.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:04:13.417] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:04:31.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[06Sep2025 02:04:55.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 339.500000, 60.500000, 861.500000]
+[06Sep2025 02:04:56.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Husk
+[06Sep2025 02:04:58.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:04:58.046] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:05:15.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Survival Mode]
+[06Sep2025 02:05:22.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie
+[06Sep2025 02:05:24.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:05:24.149] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:05:34.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 02:05:35.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:05:35.162] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:05:46.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 338.500000, 59.500000, 860.500000]
+[06Sep2025 02:07:24.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 02:09:41.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by The Wheezer
+[06Sep2025 02:09:42.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:09:42.377] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:10:19.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by The Wheezer
+[06Sep2025 02:10:20.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:10:20.215] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:10:27.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 02:10:30.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:10:30.043] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:10:43.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to daniel16]
+[06Sep2025 02:11:05.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Acquire Hardware]
+[06Sep2025 02:11:37.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[06Sep2025 02:12:02.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[06Sep2025 02:12:05.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie
+[06Sep2025 02:12:05.215] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Sep2025 02:12:05.215] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[06Sep2025 02:12:05.215] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[06Sep2025 02:12:05.215] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[06Sep2025 02:12:05.215] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[06Sep2025 02:12:06.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:12:06.690] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:12:11.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 02:12:12.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:12:12.299] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:12:34.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:12:36.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:12:36.875] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:13:22.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 02:13:40.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 02:13:42.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:13:42.075] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:13:49.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to daniel16]
+[06Sep2025 02:13:51.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was doomed to fall by Zombie
+[06Sep2025 02:13:52.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:13:52.457] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:16:52.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by The Wheezer
+[06Sep2025 02:16:53.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by The Wheezer
+[06Sep2025 02:16:53.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:16:53.958] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:16:55.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:16:55.210] [Server thread/INFO] [tac/]: PENDING
