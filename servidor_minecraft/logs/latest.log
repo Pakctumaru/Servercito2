@@ -1338,3 +1338,17 @@
 [06Sep2025 02:33:44.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (17)
 [06Sep2025 02:33:44.259] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
 [06Sep2025 02:35:47.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[06Sep2025 02:38:11.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Survival Mode]
+[06Sep2025 02:38:30.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Upgrading your Grid]
+[06Sep2025 02:38:36.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Connecting]
+[06Sep2025 02:42:51.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael has made the advancement [Close Quarters]
+[06Sep2025 02:44:08.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[06Sep2025 02:44:13.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie
+[06Sep2025 02:44:15.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:44:15.467] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:44:28.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported Taza_free to VadniesHael]
+[06Sep2025 02:44:40.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Connecting]
+[06Sep2025 02:46:28.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Husk
+[06Sep2025 02:46:30.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:46:30.316] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:46:35.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
