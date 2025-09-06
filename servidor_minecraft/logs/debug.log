@@ -19733,3 +19733,621 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Sep2025 02:26:44.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
 [06Sep2025 02:26:45.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [06Sep2025 02:26:45.839] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:27:10.114] [Worker-Main9/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -1]
+[06Sep2025 02:27:14.221] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[06Sep2025 02:27:23.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by The Moonflower
+[06Sep2025 02:27:24.702] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[06Sep2025 02:27:24.702] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[06Sep2025 02:27:25.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:27:25.309] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:27:26.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie
+[06Sep2025 02:27:28.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:27:28.302] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:27:34.823] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[06Sep2025 02:27:34.923] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[06Sep2025 02:27:43.196] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[06Sep2025 02:27:43.196] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[06Sep2025 02:27:43.198] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[06Sep2025 02:27:43.199] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[06Sep2025 02:27:43.199] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[06Sep2025 02:27:43.200] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[06Sep2025 02:27:43.200] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[06Sep2025 02:27:43.211] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[06Sep2025 02:27:43.212] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[06Sep2025 02:27:43.213] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[06Sep2025 02:27:43.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:27:43.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:28:02.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:28:04.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:28:04.703] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:28:21.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by The Moonflower
+[06Sep2025 02:28:23.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:28:23.437] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:29:17.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Crops of the Wild]
+[06Sep2025 02:29:25.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[06Sep2025 02:29:25.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael left the game
+[06Sep2025 02:29:25.351] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06Sep2025 02:29:25.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[06Sep2025 02:29:25.351] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of VadniesHael
+[06Sep2025 02:29:25.396] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[06Sep2025 02:29:26.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Infected Police
+[06Sep2025 02:29:27.015] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[06Sep2025 02:29:27.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:29:27.447] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:30:25.649] [Worker-Main21/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, -2]
+[06Sep2025 02:30:42.685] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[06Sep2025 02:30:55.072] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[06Sep2025 02:31:39.096] [Worker-Main21/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, -2]
+[06Sep2025 02:32:05.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:32:06.397] [IO-Worker-136/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[06Sep2025 02:32:08.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:32:08.256] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:32:43.192] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[06Sep2025 02:32:43.192] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[06Sep2025 02:32:43.193] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[06Sep2025 02:32:43.194] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[06Sep2025 02:32:43.194] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[06Sep2025 02:32:43.196] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[06Sep2025 02:32:43.196] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[06Sep2025 02:32:43.196] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[06Sep2025 02:32:43.199] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[06Sep2025 02:32:43.208] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[06Sep2025 02:32:43.208] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[06Sep2025 02:32:43.209] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[06Sep2025 02:32:43.209] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[06Sep2025 02:32:43.210] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[06Sep2025 02:32:43.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 02:32:43.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 02:33:40.546] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 62 messages to dispatch.
+[06Sep2025 02:33:40.592] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[06Sep2025 02:33:40.638] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[06Sep2025 02:33:40.687] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[06Sep2025 02:33:40.744] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[06Sep2025 02:33:40.786] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[06Sep2025 02:33:40.839] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[06Sep2025 02:33:40.850] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of '16.14' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'firstaid:channel' : Version test of '3.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedvisuals:main' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:handshake' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombie_extreme:zombie_extreme' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'drg_flares:packets' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pipez:default' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apocalypsenow:apocalypsenow' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutationcraft:mutationcraft' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customportalapi:main' : Version test of '1.6' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:infection' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tac:play' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.851] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:hordeevent' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cold_sweat:main' : Version test of '0.1.2' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thirst:main' : Version test of '0.1.1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of '2.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lostcities:lostcities' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_revamp2:undead_revamp2' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_sa:create_sa' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puffish_skills:skill_click' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'openpartiesandclaims:main' : Version test of '1.4.0' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pfm:main_channel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'atlaslib:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.852] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersivepetroleum:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fastbench:channel' : Version test of '4.6.0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'theoneprobe:theoneprobe' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_villagers:default' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'diet:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Version test of '9' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:play' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_central_kitchen:farmersdelight' : Version test of '1.3.0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:dummychannel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'car:default' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'harvestwithease:main' : Version test of '1.18-6.1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'crafttweaker:main' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main_channel' : Version test of '0' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createaddition:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.17.0.8' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.7' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ag_day_counter:ag_day_counter' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.853] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'solcarrot:main' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'selene:network' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombiemobs:zombiemobs' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashcans:main' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refinedstorage:main_channel' : Version test of '1' from client : ACCEPTED
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:40.854] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:40.903] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[06Sep2025 02:33:40.963] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[06Sep2025 02:33:41.017] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[06Sep2025 02:33:41.017] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.017] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.017] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[06Sep2025 02:33:41.017] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.017] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[06Sep2025 02:33:41.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.023] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[06Sep2025 02:33:41.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 9
+[06Sep2025 02:33:41.090] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 10
+[06Sep2025 02:33:41.144] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 11
+[06Sep2025 02:33:41.190] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[06Sep2025 02:33:41.244] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry simpleplanes:upgrade_types' to 'fml:handshake' sequence 13
+[06Sep2025 02:33:41.289] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[06Sep2025 02:33:41.339] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 15
+[06Sep2025 02:33:41.385] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 16
+[06Sep2025 02:33:41.439] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 17
+[06Sep2025 02:33:41.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[06Sep2025 02:33:41.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[06Sep2025 02:33:41.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.455] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[06Sep2025 02:33:41.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.513] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 18
+[06Sep2025 02:33:41.555] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pipez-server.toml' to 'fml:handshake' sequence 19
+[06Sep2025 02:33:41.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config parcool-server.toml' to 'fml:handshake' sequence 20
+[06Sep2025 02:33:41.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config readyplayerfun-server.toml' to 'fml:handshake' sequence 21
+[06Sep2025 02:33:41.695] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config diet-groups.toml' to 'fml:handshake' sequence 22
+[06Sep2025 02:33:41.729] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[06Sep2025 02:33:41.731] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.731] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.731] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[06Sep2025 02:33:41.731] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.731] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[06Sep2025 02:33:41.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 24
+[06Sep2025 02:33:41.844] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cgm-server.toml' to 'fml:handshake' sequence 25
+[06Sep2025 02:33:41.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ritchiesprojectilelib-server.toml' to 'fml:handshake' sequence 26
+[06Sep2025 02:33:41.936] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config immersivepetroleum-server.toml' to 'fml:handshake' sequence 27
+[06Sep2025 02:33:41.968] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[06Sep2025 02:33:41.968] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.968] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.970] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:41.971] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:41.990] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config carryon-server.toml' to 'fml:handshake' sequence 28
+[06Sep2025 02:33:42.049] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 29
+[06Sep2025 02:33:42.094] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fastleafdecay-server.toml' to 'fml:handshake' sequence 30
+[06Sep2025 02:33:42.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[06Sep2025 02:33:42.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.110] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.138] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config createbigcannons-server.toml' to 'fml:handshake' sequence 31
+[06Sep2025 02:33:42.190] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sereneseasons-server.toml' to 'fml:handshake' sequence 32
+[06Sep2025 02:33:42.245] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config railways-server.toml' to 'fml:handshake' sequence 33
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.248] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config comforts-server.toml' to 'fml:handshake' sequence 34
+[06Sep2025 02:33:42.289] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[06Sep2025 02:33:42.289] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.289] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[06Sep2025 02:33:42.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.309] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.337] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config diet-effects.toml' to 'fml:handshake' sequence 35
+[06Sep2025 02:33:42.361] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[06Sep2025 02:33:42.361] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.361] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.392] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 36
+[06Sep2025 02:33:42.420] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[06Sep2025 02:33:42.420] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.420] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.436] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 37
+[06Sep2025 02:33:42.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[06Sep2025 02:33:42.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tac-server.toml' to 'fml:handshake' sequence 38
+[06Sep2025 02:33:42.517] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[06Sep2025 02:33:42.517] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.518] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.535] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config car-server.toml' to 'fml:handshake' sequence 39
+[06Sep2025 02:33:42.594] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 40
+[06Sep2025 02:33:42.624] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[06Sep2025 02:33:42.624] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.624] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.626] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[06Sep2025 02:33:42.626] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.626] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.637] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config solcarrot-server.toml' to 'fml:handshake' sequence 41
+[06Sep2025 02:33:42.649] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[06Sep2025 02:33:42.649] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.649] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.690] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easy_villagers-server.toml' to 'fml:handshake' sequence 42
+[06Sep2025 02:33:42.718] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[06Sep2025 02:33:42.718] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.718] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.734] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config diet-server.toml' to 'fml:handshake' sequence 43
+[06Sep2025 02:33:42.785] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config immersiveposts-server.toml' to 'fml:handshake' sequence 44
+[06Sep2025 02:33:42.801] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[06Sep2025 02:33:42.801] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.802] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.814] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[06Sep2025 02:33:42.814] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.814] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.836] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config refinedstorage-server.toml' to 'fml:handshake' sequence 45
+[06Sep2025 02:33:42.850] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[06Sep2025 02:33:42.850] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.850] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.907] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[06Sep2025 02:33:42.907] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.907] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.937] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config firstaid-server.toml' to 'fml:handshake' sequence 47
+[06Sep2025 02:33:42.952] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[06Sep2025 02:33:42.952] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:42.952] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:42.987] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 48
+[06Sep2025 02:33:43.004] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[06Sep2025 02:33:43.004] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.004] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.035] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 49
+[06Sep2025 02:33:43.085] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config openpartiesandclaims-server.toml' to 'fml:handshake' sequence 50
+[06Sep2025 02:33:43.122] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[06Sep2025 02:33:43.122] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.122] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.122] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[06Sep2025 02:33:43.122] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.122] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.135] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 51
+[06Sep2025 02:33:43.153] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[06Sep2025 02:33:43.153] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.153] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.187] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config getittogetherdrops-server.toml' to 'fml:handshake' sequence 52
+[06Sep2025 02:33:43.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[06Sep2025 02:33:43.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostcities-server.toml' to 'fml:handshake' sequence 53
+[06Sep2025 02:33:43.253] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[06Sep2025 02:33:43.253] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.253] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.284] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 54
+[06Sep2025 02:33:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[06Sep2025 02:33:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.350] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config xptome-server.toml' to 'fml:handshake' sequence 55
+[06Sep2025 02:33:43.358] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 53
+[06Sep2025 02:33:43.359] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 53 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.359] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.386] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostsouls-server.toml' to 'fml:handshake' sequence 56
+[06Sep2025 02:33:43.399] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 54
+[06Sep2025 02:33:43.399] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 54 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.399] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.framework.network.message.handshake.S2CSyncedEntityData' to 'framework:handshake' sequence 57
+[06Sep2025 02:33:43.475] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 55
+[06Sep2025 02:33:43.476] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 55 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.476] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.502] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 56
+[06Sep2025 02:33:43.502] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 56 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[06Sep2025 02:33:43.502] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.583] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:network_gun_manager' to 'framework:handshake' sequence 58
+[06Sep2025 02:33:43.586] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 57
+[06Sep2025 02:33:43.586] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 57 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[06Sep2025 02:33:43.586] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.669] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:custom_gun_manager' to 'framework:handshake' sequence 59
+[06Sep2025 02:33:43.688] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'tac:network_rig_manager' to 'framework:handshake' sequence 60
+[06Sep2025 02:33:43.707] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'tac:network_gun_manager' to 'framework:handshake' sequence 61
+[06Sep2025 02:33:43.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 58
+[06Sep2025 02:33:43.730] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 58 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[06Sep2025 02:33:43.730] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 59
+[06Sep2025 02:33:43.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 59 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[06Sep2025 02:33:43.789] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.810] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 60
+[06Sep2025 02:33:43.810] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 60 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[06Sep2025 02:33:43.810] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 61
+[06Sep2025 02:33:43.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 61 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[06Sep2025 02:33:43.962] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[06Sep2025 02:33:43.987] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[06Sep2025 02:33:44.040] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2af7df6d
+[06Sep2025 02:33:44.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.148.46.72:35197] logged in with entity id 387083 at (387.63895228257843, 68.0, 29.542355608840886)
+[06Sep2025 02:33:44.043] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2d69005a into net.minecraft.network.Connection@33a07b9d
+[06Sep2025 02:33:44.044] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 225 classes
+[06Sep2025 02:33:44.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael joined the game
+[06Sep2025 02:33:44.059] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:33:44.081] [Server thread/DEBUG] [FTB Quests/]: received teams login event for player e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, team = VadniesHael
+[06Sep2025 02:33:44.082] [Server thread/DEBUG] [FTB Quests/]: sent quest book to client: 1075 objects in 73755 bytes
+[06Sep2025 02:33:44.082] [Server thread/DEBUG] [FTB Quests/]: sending team data for team Taza_free to player e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, self = false
+[06Sep2025 02:33:44.082] [Server thread/DEBUG] [FTB Quests/]: sending team data for team VadniesHael to player e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, self = true
+[06Sep2025 02:33:44.082] [Server thread/DEBUG] [FTB Quests/]: sending team data for team daniel16 to player e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, self = false
+[06Sep2025 02:33:44.084] [Server thread/DEBUG] [firstaid/]: Sending damage model to TextComponent{text='VadniesHael', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[06Sep2025 02:33:44.084] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06Sep2025 02:33:44.115] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:33:44.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (17)
+[06Sep2025 02:33:44.259] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to VadniesHael
+[06Sep2025 02:33:44.259] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with VadniesHael
+[06Sep2025 02:33:44.259] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with VadniesHael
+[06Sep2025 02:33:44.259] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
+[06Sep2025 02:34:11.065] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:11.631] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.295] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.295] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.325] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.325] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.365] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.366] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.410] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.550] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.550] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.550] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.592] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.592] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.679] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.764] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.764] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.804] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.857] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.898] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.898] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.961] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:12.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.012] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.013] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.062] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.119] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.126] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.169] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.170] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.218] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.340] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.340] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.341] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.341] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.401] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.433] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.433] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.502] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.502] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.525] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.591] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.591] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.617] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.662] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.662] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.871] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.872] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.899] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.899] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.900] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.900] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.900] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.948] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:13.948] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.022] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.145] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.145] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.145] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.228] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.228] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.228] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.321] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.321] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.321] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.495] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.496] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.570] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.570] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.708] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.747] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.747] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.781] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.782] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.819] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.961] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.961] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.961] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.964] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:14.967] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.023] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[06Sep2025 02:34:15.066] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.105] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.107] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.174] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.223] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.224] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.363] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.418] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.418] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.460] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.521] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.552] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.572] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.572] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.744] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:15.788] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:16.172] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:17.574] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.169] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.169] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.288] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.288] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.288] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.360] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.360] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.401] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.425] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.425] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.466] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.532] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.562] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.566] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.617] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.659] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.662] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.750] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.750] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.835] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.835] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.983] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.983] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:18.983] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.016] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.016] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.103] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.111] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.163] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.165] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.245] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.246] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.307] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.307] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.309] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.419] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.466] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.516] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.812] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.812] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.812] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.898] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.898] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.898] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.898] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.899] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=false, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:19.899] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of VadniesHael: {disabled=true, disconnected=true, uuid=e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95, name=VadniesHael, group=null}
+[06Sep2025 02:34:41.168] [Worker-Main23/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -2]
+[06Sep2025 02:34:41.902] [Worker-Main14/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -1]
+[06Sep2025 02:34:53.850] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[06Sep2025 02:35:47.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[06Sep2025 02:35:59.401] [Worker-Main20/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -2]
+[06Sep2025 02:36:27.734] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147

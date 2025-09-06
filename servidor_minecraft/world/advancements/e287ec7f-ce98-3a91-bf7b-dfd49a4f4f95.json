@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-09-06 02:25:20 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-09-04 16:06:27 +0000"
@@ -388,7 +394,8 @@
       "shrubland": "2025-09-04 17:42:33 +0000",
       "clover_patch": "2025-09-04 16:28:28 +0000",
       "redwood_forest": "2025-09-04 18:02:54 +0000",
-      "cherry_blossom_grove": "2025-09-04 18:06:51 +0000"
+      "cherry_blossom_grove": "2025-09-04 18:06:51 +0000",
+      "prairie": "2025-09-06 02:27:09 +0000"
     },
     "done": false
   },
@@ -404,6 +411,7 @@
       "minecraft:beach": "2025-09-04 16:07:23 +0000",
       "minecraft:river": "2025-09-04 16:28:16 +0000",
       "minecraft:forest": "2025-09-04 16:06:27 +0000",
+      "minecraft:flower_forest": "2025-09-06 02:27:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-04 18:07:16 +0000",
       "minecraft:plains": "2025-09-04 16:17:59 +0000"
     },

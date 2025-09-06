@@ -1307,3 +1307,34 @@
 [06Sep2025 02:26:44.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
 [06Sep2025 02:26:45.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [06Sep2025 02:26:45.839] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:27:23.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by The Moonflower
+[06Sep2025 02:27:25.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:27:25.309] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:27:26.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie
+[06Sep2025 02:27:28.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:27:28.302] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:28:02.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:28:04.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:28:04.703] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:28:21.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by The Moonflower
+[06Sep2025 02:28:23.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:28:23.437] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:29:17.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free has made the advancement [Crops of the Wild]
+[06Sep2025 02:29:25.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[06Sep2025 02:29:25.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael left the game
+[06Sep2025 02:29:25.351] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06Sep2025 02:29:25.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[06Sep2025 02:29:26.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Infected Police
+[06Sep2025 02:29:27.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:29:27.447] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:32:05.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Zombie
+[06Sep2025 02:32:08.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:32:08.256] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:33:44.040] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2af7df6d
+[06Sep2025 02:33:44.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.148.46.72:35197] logged in with entity id 387083 at (387.63895228257843, 68.0, 29.542355608840886)
+[06Sep2025 02:33:44.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael joined the game
+[06Sep2025 02:33:44.059] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:33:44.084] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06Sep2025 02:33:44.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (17)
+[06Sep2025 02:33:44.259] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
+[06Sep2025 02:35:47.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Set own game mode to Creative Mode]
