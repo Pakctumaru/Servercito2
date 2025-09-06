@@ -1352,3 +1352,47 @@
 [06Sep2025 02:46:30.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [06Sep2025 02:46:30.316] [Server thread/INFO] [tac/]: PENDING
 [06Sep2025 02:46:35.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 02:49:39.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported daniel16 to VadniesHael]
+[06Sep2025 02:51:53.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to 616.500000, 78.500000, -202.500000]
+[06Sep2025 02:52:53.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [VadniesHael: Teleported VadniesHael to Taza_free]
+[06Sep2025 02:53:00.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 was slain by Runner
+[06Sep2025 02:53:02.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:53:02.312] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:54:23.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by The Moonflower
+[06Sep2025 02:54:25.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:54:25.671] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:56:22.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael was slain by Zombie
+[06Sep2025 02:56:23.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:56:23.545] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:57:25.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie Dolphin
+[06Sep2025 02:57:27.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 02:57:27.020] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 02:57:31.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
+[06Sep2025 02:57:31.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free left the game
+[06Sep2025 02:57:31.740] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 02:57:31.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free
+[06Sep2025 02:58:24.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniel16 lost connection: Disconnected
+[06Sep2025 02:58:24.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: daniel16 left the game
+[06Sep2025 02:58:24.429] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b4742f7f-64b4-348c-b2ac-a34f795c8f6b
+[06Sep2025 02:58:24.430] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniel16
+[06Sep2025 03:01:06.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[06Sep2025 03:01:06.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: VadniesHael left the game
+[06Sep2025 03:01:06.886] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95
+[06Sep2025 03:01:06.887] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 310144, 378929
+[06Sep2025 03:01:06.887] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[06Sep2025 03:02:55.926] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ad221fe
+[06Sep2025 03:02:55.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taza_free[/127.191.98.28:41427] logged in with entity id 578152 at (0.5, 75.0, 0.5)
+[06Sep2025 03:02:55.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free joined the game
+[06Sep2025 03:02:55.941] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 03:02:55.996] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 03:02:56.009] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:01:49 at 310144, 378929
+[06Sep2025 03:02:56.173] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_free (17)
+[06Sep2025 03:02:56.174] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_free
+[06Sep2025 03:04:41.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free was slain by Zombie
+[06Sep2025 03:04:43.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[06Sep2025 03:04:43.167] [Server thread/INFO] [tac/]: PENDING
+[06Sep2025 03:04:46.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_free lost connection: Disconnected
+[06Sep2025 03:04:46.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Taza_free left the game
+[06Sep2025 03:04:46.377] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 186537a7-9996-3401-b758-06bdf6b9b06b
+[06Sep2025 03:04:46.377] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 312353, 381138
+[06Sep2025 03:04:46.378] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_free

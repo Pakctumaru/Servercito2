@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-09-06 02:44:40 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-09-06 01:40:41 +0000"
@@ -266,6 +272,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-06 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-06 02:47:52 +0000"
     },
     "done": true
   },
@@ -375,16 +387,21 @@
     "criteria": {
       "shrubland": "2025-09-06 02:27:10 +0000",
       "redwood_forest": "2025-09-06 02:33:15 +0000",
-      "dune_beach": "2025-09-06 02:28:50 +0000"
+      "dune_beach": "2025-09-06 02:28:50 +0000",
+      "rocky_rainforest": "2025-09-06 02:43:07 +0000",
+      "lavender_field": "2025-09-06 02:51:23 +0000",
+      "rainforest": "2025-09-06 02:44:05 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-06 02:06:41 +0000",
+      "minecraft:bamboo_jungle": "2025-09-06 02:43:45 +0000",
       "minecraft:beach": "2025-09-06 02:25:49 +0000",
       "minecraft:river": "2025-09-06 01:55:58 +0000",
       "minecraft:lukewarm_ocean": "2025-09-06 02:34:15 +0000",
+      "minecraft:stony_shore": "2025-09-06 02:43:46 +0000",
       "minecraft:forest": "2025-09-06 01:40:41 +0000",
       "minecraft:ocean": "2025-09-06 02:30:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-06 02:34:51 +0000",
